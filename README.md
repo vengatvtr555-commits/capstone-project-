@@ -1,4 +1,4 @@
-# Bike Store Sales & Customer Performance Dashboard
+# Sales & Customer Performance Dashboard
 
 An interactive **Power BI dashboard** built to explore retail bike-store performance across sales, orders, customers, products, inventory, categories, brands, and staff.
 
