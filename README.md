@@ -3,6 +3,9 @@
 An interactive **Power BI dashboard** built to explore retail bike-store performance across sales, orders, customers, products, inventory, categories, brands, and staff.
 
 The report brings key business metrics and detailed breakdowns into one place so users can monitor performance, identify sales patterns, understand customer behaviour, and review stock levels.
+## dash board preview 
+<img width="895" height="502" alt="Screenshot 2026-10-31 115447" src="https://github.com/user-attachments/assets/9a0da78b-5335-4ac1-9022-c1c130184c4a" />
+
 
 ## Project overview
 
